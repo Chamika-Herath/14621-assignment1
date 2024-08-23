@@ -1,7 +1,7 @@
 package TEST_1;
 
 public class LightOnCommand implements Command {
-    private Light light;
+    private final Light light;
 
 
 
