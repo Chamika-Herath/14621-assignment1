@@ -1,3 +1,5 @@
+//LivingRoomLight class
+
 package TEST_1;
 
 public class LivingRoomLight implements Light {

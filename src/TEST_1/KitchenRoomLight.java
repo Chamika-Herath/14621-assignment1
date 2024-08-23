@@ -1,3 +1,4 @@
+//KitchenRoomLight class
 package TEST_1;
 
 public class KitchenRoomLight implements Light {

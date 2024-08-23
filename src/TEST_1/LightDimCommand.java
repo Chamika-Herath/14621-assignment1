@@ -1,3 +1,4 @@
+//LightDimCommand class
 package TEST_1;
 
 public class LightDimCommand implements Command {

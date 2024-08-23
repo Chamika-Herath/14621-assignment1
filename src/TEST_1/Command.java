@@ -1,3 +1,4 @@
+//command interface
 package TEST_1;
 
 public interface Command {

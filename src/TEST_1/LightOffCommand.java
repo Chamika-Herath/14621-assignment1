@@ -1,3 +1,4 @@
+//LightOffCommand class
 package TEST_1;
 
 public class LightOffCommand implements Command {

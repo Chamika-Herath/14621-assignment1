@@ -1,3 +1,4 @@
+//RemoteControl class
 package TEST_1;
 
 public class RemoteControl {

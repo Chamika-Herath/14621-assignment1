@@ -1,3 +1,4 @@
+//light interface
 package TEST_1;
 
 public interface Light {
