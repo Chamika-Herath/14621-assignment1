@@ -2,8 +2,8 @@
 package TEST_1;
 
 public class RemoteControl {
-    private Command[] onCommands;
-    private Command[] offCommands;
+    private final Command[] onCommands;
+    private final Command[] offCommands;
     private Command undoCommand;
 
     public RemoteControl() {

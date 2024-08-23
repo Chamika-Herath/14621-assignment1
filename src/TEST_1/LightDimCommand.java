@@ -2,9 +2,9 @@
 package TEST_1;
 
 public class LightDimCommand implements Command {
-    private Light light;
+    private final Light light;
     private int previousLevel;
-    private int newLevel;
+    private final int newLevel;
 
     public LightDimCommand(Light light, int level) {
         this.light = light;
