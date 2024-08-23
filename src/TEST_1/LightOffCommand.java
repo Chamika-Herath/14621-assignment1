@@ -1,7 +1,7 @@
 package TEST_1;
 
 public class LightOffCommand implements Command {
-    private Light light;
+    private final Light light;
 
     public LightOffCommand(Light light) {
         this.light = light;
